@@ -368,13 +368,9 @@ jobs:
 - [ ] Implement health check endpoints
 - [ ] Set up monitoring and alerts
 
-## 📝 License
-
-This project is created for educational purposes as part of an intern assignment.
-
 ## 👨‍💻 Author
 
-Intern Assignment - Full Stack Development
+Himesh Kanthariya
 
 ---
 
